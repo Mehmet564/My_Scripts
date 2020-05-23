@@ -10,3 +10,7 @@ The purpose of this research is to determine a technique for elongating bubbles 
 # Bubbles detection
 
 In this section the number of bubbles in an image, how the velocity of bubbles react while the temperature of the hot plate, where bubbles swim, changing, the accentricity of bubbles depending on different temperatures and the distriubtion of areas(film areas and empty areas in image) have been proposed.
+
+# Number of frames
+
+This tiny code is used for extracting images from a video by adjusting the number of images per second 
