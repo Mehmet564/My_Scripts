@@ -1,4 +1,4 @@
-README file weil be updated soon, 
+README file will be updated soon, 
 
 
 ### stay tuned! 
