@@ -13,4 +13,4 @@ In this section the number of bubbles in an image, how the velocity of bubbles r
 
 # Number of frames
 
-This tiny code is used for extracting images from a video by adjusting the number of images per second 
+This tiny script is used for extracting images from a video by adjusting the number of images per second 
