@@ -15,7 +15,7 @@ These main variables are as follows with the definition;
 - **b ( virtual array)** is used to compare the data text and images name in order to plot the exact values on top of images
 - **Unique** is used for removing duplicates in data file in order to compare image and text file smootly
 
-**b** values need to be taken into account before performing the script. Start point referes to the first image number, stop point referes to the last image number and step point can be selected 1 if if the ranking is consecutive. 
+**b** values must be taken into account before performing the script. Start point referes to the first image number, stop point referes to the last image number and step point can be selected 1 if if the ranking is consecutive. 
 
 - Start point = 301
 - Stop point = 499
