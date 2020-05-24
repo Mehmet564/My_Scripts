@@ -10,7 +10,7 @@ This script is modified to draw curved lines where a T1 event occurs and plots a
 
 This script is created to change the main variables related to node_plotting.py file without modifying the node_plotting.py file.
 These main variables are as follows with the definition;
-- **mypath** is path to dataset where are the images in
+- **mypath** is path to dataset where the images are in
 - **filename** is path to output folder where the  images with red cross go
 - **b ( virtual array)** is used to compare the data text and images name in order to plot the exact values on top of images
 - **Unique** is used for removing duplicates in data file in order to compare image and text file smootly
