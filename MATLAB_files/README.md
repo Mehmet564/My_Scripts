@@ -1,4 +1,4 @@
-- This MATLAB_files  contains two different files about how to detect bubbles in image and how to extract images fron a taken video
+- This MATLAB_files  contains two different files about how to detect bubbles in image and how to extract images from a taken video
 
 The purpose of this research is to determine a technique for elongating bubbles and solidifying the foam structure in a 2D system. To do this, we will see what is the impact of particles, heat and flow on the foam. This advance will create an anisotropic structure whose mechanical properties will depend on the directions of stress.
 
