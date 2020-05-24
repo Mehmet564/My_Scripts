@@ -41,14 +41,14 @@ b = np.arange(start=301, stop=499, step=1, dtype=int)
  
  ## What the node_plotting script requires 
  
- Firstly the script has been  executed according to below data text file order,
-
-- 3.0500000e+02 5.6000000e+01 4.9100000e+02 -78 -10 -255 -192 -0.0045 -0.0005 0.0012 0.0012
-- 3.0600000e+02 5.6000000e+01 4.9100000e+02 -78 -10 -255 -192 -0.0045 -0.0005 0.0012 0.0012
-- 3.0600000e+02 4.5800000e+02 5.8900000e+02 -127 -65 -303 -240 0.0012 0.0012 -0.0045 0.0015
-
 The order of the columns is as follows; 
 Frame name, x0, y0, angle1, angle2, angle3, angle4, curvature1, curvature2, curvature3, curvature4
+
+| Frame name | x0 | y0 | angle1 | angle2 | angle3 | angle4 | curvature1 | curvature2 | curvature3 | curvature4 |
+| --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+| -3.0500000e+02 | 5.6000000e+01 |4.9100000e+02 | -78 |- 10 | -255 |-192 | -0.0045 | -0.0005 |-0.0012 | 0.0012 |
+| -3.0600000e+02 | 5.6000000e+01 |4.9100000e+02 | -78 |- 10 | -255 |-192 | -0.0045 | -0.0005 |-0.0012 | 0.0012 |
+| -3.0600000e+02 | 4.5800000e+01 |5.8900000e+02 | -127 |- 65 | -303 |-240 | 0.0012 | 0.0012 |-0.0045 | 0.0015 |
 
 for the healtier results Frame name, x0, y0, angle between curved lines and x axis and the curvature of each lines are needed.
 
