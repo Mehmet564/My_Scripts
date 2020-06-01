@@ -27,14 +27,14 @@ b = np.arange(start=301, stop=499, step=1, dtype=int)
 ## How to get the curved lines
 ```
  def getCurve(x0,y0,angle,curvature):
-                    t = np.arange(35)
-                    x = t
-                    y = curvature * t*t
+     t = np.arange(35)
+     x = t
+     y = curvature * t*t
                 
-                    x_new = x*math.cos(angle*np.pi/180) - y*math.sin(angle*np.pi/180) + x0
-                    y_new = x*math.sin (angle*np.pi/180) + y*math.cos (angle*np.pi/180) + y0
+     x_new = x*math.cos(angle*np.pi/180) - y*math.sin(angle*np.pi/180) + x0
+     y_new = x*math.sin (angle*np.pi/180) + y*math.cos (angle*np.pi/180) + y0
                 
-                    plt.plot(x_new, y_new, 'r', linewidth = 6)
+     plt.plot(x_new, y_new, 'r', linewidth = 6)
  ```
  in the above script x0 and y0 are the coordinate of the t1 event occurs, the angle between curved lines and x axis is defined as angle.
  for the next step the created curved lines plotted on the top of the images.
